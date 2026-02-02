@@ -1,0 +1,121 @@
+[
+    {
+        "Categorie": "Loisir",
+        "Date": "03/02/26",
+        "Heure": "21:15",
+        "Equipe_domicile": "ENT.MULSANNE ST-BIEZ ST-OUEN",
+        "Equipe_exterieur": "JSC 3"
+    },
+    {
+        "Categorie": "Masculin",
+        "Date": "08/02/26",
+        "Heure": "10:00",
+        "Equipe_domicile": "MULSANNE 2",
+        "Equipe_exterieur": "JSC 3"
+    },
+    {
+        "Categorie": "Masculin",
+        "Date": "08/02/26",
+        "Heure": "13:00",
+        "Equipe_domicile": "MULSANNE 1",
+        "Equipe_exterieur": "CSSG LE MANS 3"
+    },
+    {
+        "Categorie": "Masculin",
+        "Date": "15/02/26",
+        "Heure": "13:00",
+        "Equipe_domicile": "MULSANNE 1",
+        "Equipe_exterieur": "LA FLECHE VOLLEY-BALL"
+    },
+    {
+        "Categorie": "Féminin",
+        "Date": "15/02/26",
+        "Heure": "10:00",
+        "Equipe_domicile": "ENT.MULSANNE ST-BIEZ ST-OUEN",
+        "Equipe_exterieur": "CSSG LE MANS 2"
+    },
+    {
+        "Categorie": "Masculin",
+        "Date": "07/03/26",
+        "Heure": "21:00",
+        "Equipe_domicile": "ASCA 1",
+        "Equipe_exterieur": "MULSANNE 2"
+    },
+    {
+        "Categorie": "Masculin",
+        "Date": "08/03/26",
+        "Heure": "10:00",
+        "Equipe_domicile": "MULSANNE 1",
+        "Equipe_exterieur": "ASCA 2"
+    },
+    {
+        "Categorie": "Masculin",
+        "Date": "13/03/26",
+        "Heure": "21:00",
+        "Equipe_domicile": "MULSANNE 1",
+        "Equipe_exterieur": "JEUNES SPORTIFS DE BEAUFAY"
+    },
+    {
+        "Categorie": "Masculin",
+        "Date": "15/03/26",
+        "Heure": "10:00",
+        "Equipe_domicile": "MULSANNE 2",
+        "Equipe_exterieur": "JSC 4"
+    },
+    {
+        "Categorie": "Masculin",
+        "Date": "21/03/26",
+        "Heure": "21:00",
+        "Equipe_domicile": "JSC 4",
+        "Equipe_exterieur": "MULSANNE 1"
+    },
+    {
+        "Categorie": "Masculin",
+        "Date": "22/03/26",
+        "Heure": "10:00",
+        "Equipe_domicile": "MULSANNE 2",
+        "Equipe_exterieur": "LA FLECHE VOLLEY-BALL"
+    },
+    {
+        "Categorie": "Masculin",
+        "Date": "28/03/26",
+        "Heure": "18:30",
+        "Equipe_domicile": "CSSG LE MANS 3",
+        "Equipe_exterieur": "MULSANNE 2"
+    },
+    {
+        "Categorie": "Masculin",
+        "Date": "29/03/26",
+        "Heure": "10:00",
+        "Equipe_domicile": "MULSANNE 1",
+        "Equipe_exterieur": "C OMNISPORTS CHATEAU DU LOIR"
+    },
+    {
+        "Categorie": "Masculin",
+        "Date": "04/04/26",
+        "Heure": "21:00",
+        "Equipe_domicile": "JSC 3",
+        "Equipe_exterieur": "MULSANNE 1"
+    },
+    {
+        "Categorie": "Masculin",
+        "Date": "05/04/26",
+        "Heure": "10:00",
+        "Equipe_domicile": "MULSANNE 2",
+        "Equipe_exterieur": "ASCA 2"
+    },
+    {
+        "Categorie": "Masculin",
+        "Date": "08/05/26",
+        "Heure": "21:00",
+        "Equipe_domicile": "JEUNES SPORTIFS DE BEAUFAY",
+        "Equipe_exterieur": "MULSANNE 2"
+    },
+    {
+        "Categorie": "Masculin",
+        "Date": "10/05/26",
+        "Heure": "10:00",
+        "Equipe_domicile": "MULSANNE 1",
+        "Equipe_exterieur": "ASCA 1"
+    }
+]

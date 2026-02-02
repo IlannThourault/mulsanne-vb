@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mulsanne Volleyball - Club de Volley</title>
+    <link rel="icon" type="image/png" href="logoMvb.png">
+    <link rel="stylesheet" href="styles.css" />
+
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">
+                <img src="logoMvb.png" alt="Logo Mulsanne Volleyball" class="logo-img">
+                Mulsanne Volleyball
+            </div>
+            <div class="menu-toggle" id="menuToggle">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+           <ul class="nav-links" id="navLinks">
+                <li><a href="#accueil">Accueil</a></li>
+                <li><a href="#apropos">À propos</a></li>
+                <li><a href="#equipes">Nos équipes</a></li>
+                <li><a href="#calendrier">Calendrier</a></li>
+                <li><a href="#reseaux">Réseaux</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="accueil" class="hero">
+        <div class="hero-content">
+            <h1>Mulsanne Volleyball</h1>
+            <p>Passion, Esprit d'équipe, Bonne humeur</p>
+            <img src = "logoMvb.png" alt="Logo Mulsanne Volleyball" class="hero-logo">
+        </div>
+    </section>
+
+    <section id="apropos">
+        <h2>À propos du club</h2>
+        <div class="about-content">
+            <div class="about-text">
+                <p>Bienvenue au club de <strong>Mulsanne Volleyball</strong>.</p>
+                <p>Depuis notre création en 1991, nous cultivons les valeurs du sport collectif : respect, entraide et dépassement de soi. </p>
+                <p>Nous vous accueillons dans une ambiance conviviale et dynamique, ouverte à tous.</p>
+                <p>Homme ou femme, débutant ou confirmé, vous trouverez votre place parmi nos équipes : masculines et 
+                féminines en départemental, ou encore notre section loisir.</p>
+                
+                <br>
+                <p>Les <strong>entraînements</strong> se déroulent tous dans le gymnase Marcel Cerdan (Av. de Nettleham, 72230 Mulsanne) : </p>
+                <ul>
+                    <li>Loisir : mardi soir à partir de 20h 45 - 23h 30</li><br>
+                    <li>Départemental masculin : Jeudi 21h - 23 h 15</li><br>
+                    <li>Départemental féminine : Vendredi 19h - 20h 45</li><br>
+                </ul>
+            </div>
+            <div>
+                <div class="about-image">
+                    <img src="tournoiMulsanne.JPG" alt="Équipe Mulsanne Volleyball">
+                </div>
+                <p class="image-caption">Téléthon 2025</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="services">
+        <h2>Nos activités</h2>
+        <div class="service-grid">
+            
+            <div class="service-card">
+                <div class="service-icon">⭐</div>
+                <h3>Loisir</h3>
+                <p>Entraînements détendus ouverts à tous les licenciés pour débuter et s'entraîner en s'amusant</p>
+            </div>
+            <div class="service-card">
+                <div class="service-icon">🏆</div>
+                <h3>Compétition</h3>
+                <p>Équipes engagées en championnat départemental masculin et féminin ainsi qu'en compet-lib</p>
+            </div>
+            <div class="service-card">
+                <div class="service-icon">🎉</div>
+                <h3>Événements</h3>
+                <p>Tournoi de Mulsanne et moments conviviaux tout au long de l'année. Inscrivez-vous au tournoi du 2 mars 2026 <a href ="https://www.helloasso.com/associations/mulsanne-volley-ball/adhesions/tournoi-mulsanne-2026">ici</a> ! </p>
+                
+            </div>
+        </div>
+    </section>
+
+    <section id="equipes">
+        <h2>Nos équipes</h2>
+        <div class="team-grid">
+            <div class="team-member">
+                <div class="team-info">
+                    <h3>Dep senior masculin 1</h3>
+                    <p>&nbsp;</p>
+                </div>
+                <div class="team-avatar">
+                    <img src="depM1.JPG" alt="Équipe Senior Homme 1">
+                </div>
+            </div>
+
+            <div class="team-member">
+                <div class="team-info">
+                    <h3>Dep senior masculin 2</h3>
+                </div>
+                <div class="team-avatar">
+                    <img src="depm2.JPG" alt="Équipe Senior Homme 2">
+                </div>
+            </div>
+
+            <div class="team-member">
+                <div class="team-info">
+                    <h3>Les Zaperos</h3>
+                    <p>Championnat Compet-lib (loisir)</p>
+                </div>
+                <div class="team-avatar">
+                    <img src="loisir.jpeg" alt="Equipe Loisir">
+                </div>
+            </div>
+
+            <div class="team-member">
+                <div class="team-info">
+                    <h3>Dep senior féminine  </h3>
+                </div>
+                <div class="team-avatar">
+                    <img src="depFeminine.jpeg" alt="Équipe Féminine">
+                </div>
+            </div>
+
+            
+        </div>
+    </section>
+
+    <section id="calendrier">
+        <h2>Calendrier des matchs</h2>
+        <p style="text-align: center; margin-bottom: 2rem; font-size: 1.1rem; color: #666;">Matchs à venir</p>
+        <table id="table-matchs">
+            <thead>
+                <tr>
+                    <th>Catégorie</th>
+                    <th>Date</th>
+                    <th>Heure</th>
+                    <th>Match</th>
+                </tr>
+            </thead>
+            <tbody id="liste-matchs">
+                </tbody>
+        </table>
+        
+    </section>
+
+    <section id="reseaux">
+    <h2>Suivez-nous</h2>
+    <p style="text-align: center; margin-bottom: 2rem; font-size: 1.1rem;">Rejoignez notre communauté sur les réseaux sociaux !</p>
+    
+    <div class="social-grid">
+        <a href="https://www.instagram.com/mulsanne_vb/" target="_blank" class="social-card instagram">
+            <img src="insta.png" alt="Instagram">
+        </a>
+        <a href="https://www.facebook.com/VolleyMulsanne/" target="_blank" class="social-card facebook">
+            <img src="facebook.png" alt="Facebook">
+        </a>
+        <a href="https://www.tiktok.com/@mulsanne_vb" target="_blank" class="social-card tiktok">
+            <img src="tiktok.png" alt="TikTok">
+        </a>
+    </div>
+    
+</section>
+
+<footer>
+    <p>&copy; 2025 Mulsanne Volleyball - Tous droits réservés</p>
+    <p>📍 Mulsanne, Pays de la Loire | 📧 mulsannevb@gmail.com</p>
+</footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
