@@ -1,20 +1,6 @@
 [
     {
         "Categorie": "Masculin",
-        "Date": "08/02/26",
-        "Heure": "10:00",
-        "Equipe_domicile": "MULSANNE 2",
-        "Equipe_exterieur": "JSC 3"
-    },
-    {
-        "Categorie": "Masculin",
-        "Date": "08/02/26",
-        "Heure": "13:00",
-        "Equipe_domicile": "MULSANNE 1",
-        "Equipe_exterieur": "CSSG LE MANS 3"
-    },
-    {
-        "Categorie": "Masculin",
         "Date": "15/02/26",
         "Heure": "13:00",
         "Equipe_domicile": "MULSANNE 1",
