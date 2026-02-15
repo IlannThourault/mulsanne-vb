@@ -7,18 +7,18 @@
         "Equipe_exterieur": "LA FLECHE VOLLEY-BALL"
     },
     {
-        "Categorie": "Féminin",
-        "Date": "15/02/26",
-        "Heure": "10:00",
-        "Equipe_domicile": "ENT.MULSANNE ST-BIEZ ST-OUEN",
-        "Equipe_exterieur": "CSSG LE MANS 2"
-    },
-    {
         "Categorie": "Masculin",
         "Date": "07/03/26",
         "Heure": "21:00",
         "Equipe_domicile": "ASCA 1",
         "Equipe_exterieur": "MULSANNE 2"
+    },
+    {
+        "Categorie": "Féminin",
+        "Date": "07/03/26",
+        "Heure": "21:00",
+        "Equipe_domicile": "ENT.MULSANNE ST-BIEZ ST-OUEN",
+        "Equipe_exterieur": "CSSG LE MANS 2"
     },
     {
         "Categorie": "Masculin",
