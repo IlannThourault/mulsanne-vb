@@ -43,16 +43,16 @@
     },
     {
         "Categorie": "Masculin",
+        "Date": "26/04/26",
+        "Heure": "13:00",
+        "Equipe_domicile": "MULSANNE 1",
+        "Equipe_exterieur": "ASCA 1"
+    },
+    {
+        "Categorie": "Masculin",
         "Date": "08/05/26",
         "Heure": "21:00",
         "Equipe_domicile": "JEUNES SPORTIFS DE BEAUFAY",
         "Equipe_exterieur": "MULSANNE 2"
-    },
-    {
-        "Categorie": "Masculin",
-        "Date": "10/05/26",
-        "Heure": "10:00",
-        "Equipe_domicile": "MULSANNE 1",
-        "Equipe_exterieur": "ASCA 1"
     }
 ]
